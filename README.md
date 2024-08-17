@@ -1,4 +1,4 @@
-# **Balanced BInary Tree**
+# **Balanced Binary Tree**
 
 - A height-balanced binary tree ensures that the tree's structure is optimized for operations like insertion, deletion, and lookup. This repository contains a Java program that determines if a given binary tree is height-balanced, using a recursive approach to determine the height of each subtree and check the balance condition at every node. 
 - A height-balanced binary tree is defined as one in which the depth of the two subtrees of every node never differs by more than one.
